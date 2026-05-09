@@ -1,8 +1,6 @@
 # Withness
 AI-powered immutable gift records on Solana. Describe a gift, let AI extract the details, both parties confirm to seal it on-chain.
 
-# Withness
-
 > Record every loving gesture. Cherish it daily. Prove it when it matters.
 
 ## What is Withness?
@@ -13,7 +11,7 @@ Describe any gift or gesture in plain language. Our AI agent automatically extra
 
 ## Demo
 
-[Live Demo](paste your demo link here)
+https://trynoah.ai/shared/69ff2f0eceae49664065cb00
 
 ## Tech Stack
 
@@ -31,4 +29,4 @@ Describe any gift or gesture in plain language. Our AI agent automatically extra
 
 ## Built at
 
-Solana Hackathon 2025
+Dev3Pack Global Hackathon 2026
